@@ -7,6 +7,8 @@ Facebook inspired animated reactions component
 ```sh
 npm install @herberthtk/react-native-animated-reactions
 ```
+## Demo
+![Animated reactions](./reactions.gif)
 
 ## Usage
 
@@ -116,10 +118,13 @@ export default App;
 
 See the [contributing guide](CONTRIBUTING.md) to learn how to contribute to the repository and the development workflow.
 
+#### Support
+If you find this package useful, please give it a star ⭐ on github to support my efforts, I work on this project in my free time
+
 ## License
 
 MIT
 
 ---
 
-Made with [create-react-native-library](https://github.com/callstack/react-native-builder-bob)
+Made with :heart: by [Herbert kavuma](https://herbert.netbritz.com/)
