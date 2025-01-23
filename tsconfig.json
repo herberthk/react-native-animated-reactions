@@ -2,7 +2,7 @@
   "compilerOptions": {
     "rootDir": ".",
     "paths": {
-      "react-native-animated-reactions": ["./src/index"]
+      "@herberthtk/react-native-animated-reactions": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
