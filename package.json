@@ -1,6 +1,6 @@
 {
   "name": "@herberthtk/react-native-animated-reactions",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Facebook inspired animated reactions component",
   "source": "./src/index.tsx",
   "main": "./lib/commonjs/index.js",
@@ -52,7 +52,8 @@
     "react-native-reactions",
     "animated-reactions",
     "facebook-reactions",
-    "reactions","animated"
+    "reactions",
+    "animated"
   ],
   "repository": {
     "type": "git",
