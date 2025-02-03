@@ -7,6 +7,8 @@ This is the fully customizable React Native component for displaying a reaction 
 ```sh
 npm install @herberthtk/react-native-animated-reactions
 ```
+## Test on your phone
+> You can test [on this expo snack](https://snack.expo.dev/@herberthk/react-native-animated-reactions)
 ## Demo
 ![Animated reactions](./reactions.gif)
 
