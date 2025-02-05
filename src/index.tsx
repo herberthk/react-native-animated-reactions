@@ -122,8 +122,6 @@ const styles = StyleSheet.create({
     backgroundColor: '#FFFFFF',
     borderRadius: 30,
     padding: 10,
-    position: 'absolute',
-    bottom: 100,
     alignSelf: 'center',
     shadowColor: '#000',
     shadowOffset: { width: 0, height: 3 },
